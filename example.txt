@@ -1,0 +1,3 @@
+Hiiiii,
+
+Testing add a file functionality to a git repo.
